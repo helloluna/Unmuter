@@ -1,0 +1,264 @@
+/* starlight.css — unmuter.org 主题 */
+/* 关键词：暖纸背景、墨蓝强调、人权档案感 */
+
+/* ====== 全局变量（颜色 & 字体）====== */
+:root {
+  /* 字体：清晰、适合长文阅读 */
+  --sl-font-body: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
+  --sl-font-heading: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
+
+  /* 颜色：暖纸 + 墨蓝 */
+  --sl-color-text: #27241f;          /* 主正文：深棕灰（眼睛舒服） */
+  --sl-color-background: #f9f4ec;    /* 背景：偏暖纸张色 */
+  --sl-color-brand: #1f4b6e;         /* 品牌色：墨蓝（标题/链接） */
+  --sl-color-link: #1f4b6e;          /* 链接：同上 */
+  --sl-color-link-hover: #163550;    /* 悬停：更深一点的墨蓝 */
+  --sl-color-border: #e0d8cc;        /* 边框：淡咖啡色 */
+  --sl-content-width: 46rem;         /* 正文最大宽度 */
+  --sl-line-height: 1.85;
+  --sl-space-block: 2.1rem;
+}
+
+/* ====== 基础排版 ====== */
+
+/* 正文 + 整体排版 */
+body,
+.sl-root,
+.sl-markdown,
+nav,
+.sl-sidebar {
+  font-family: var(--sl-font-body) !important;
+  font-size: 1.04rem;
+  font-weight: 400;
+  background: var(--sl-color-background);
+  color: var(--sl-color-text);
+  line-height: var(--sl-line-height);
+  letter-spacing: 0.015em;
+}
+
+body {
+  margin: 0;
+  max-width: none;
+  background: var(--sl-color-background);
+}
+
+/* 主内容区域：居中窄版，像报告书 */
+.sl-markdown {
+  padding-block: 2.2rem;
+  margin-inline: auto;
+  max-width: var(--sl-content-width);
+}
+
+/* 段落与区块间距 */
+.sl-markdown > * {
+  margin-top: 0.4rem;
+  margin-bottom: 1.35rem;
+}
+
+/* ====== 标题风格 ====== */
+
+h1, h2, h3,
+.sl-markdown h1,
+.sl-markdown h2,
+.sl-markdown h3 {
+  color: var(--sl-color-brand);
+  font-family: var(--sl-font-heading) !important;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 1.1rem;
+  letter-spacing: 0.02em;
+}
+
+h1, .sl-markdown h1 {
+  font-size: 2.25rem;
+}
+
+h2, .sl-markdown h2 {
+  font-size: 1.55rem;
+}
+
+h3, .sl-markdown h3 {
+  font-size: 1.18rem;
+}
+
+/* 页面主标题下方加一点“档案感”的细线 */
+.sl-markdown h1 + p {
+  border-top: 1px solid rgba(0,0,0,0.06);
+  padding-top: 0.9rem;
+  margin-top: 0.6rem;
+}
+
+/* ====== 侧栏（Sidebar）====== */
+
+/* 分区标题：略深，微加粗 */
+.sl-sidebar-section-title {
+  color: #3a3228;
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 0.25rem;
+}
+
+/* 侧栏整体风格 */
+nav,
+.sl-sidebar {
+  font-size: 1.02rem;
+  letter-spacing: 0.02em;
+}
+
+/* 侧栏链接：去掉下划线，只用颜色区分 */
+.sl-sidebar a {
+  color: #4a4339;
+  border: none;
+}
+
+/* 当前页高亮：浅蓝灰底 + 墨蓝字 */
+nav [aria-current="page"],
+nav [data-active="true"] {
+  background: #e4edf5 !important;
+  color: var(--sl-color-brand) !important;
+  font-weight: 700;
+  border-radius: 7px;
+  box-shadow: none !important;
+}
+
+/* hover 时略微加深 */
+.sl-sidebar a:hover {
+  color: var(--sl-color-link-hover);
+}
+
+/* ====== 链接样式 ====== */
+
+a,
+.sl-markdown a {
+  color: var(--sl-color-link);
+  border-bottom: 1px dashed var(--sl-color-link);
+  text-decoration: none;
+  transition: color 0.18s ease, border-bottom-color 0.18s ease;
+}
+
+a:hover,
+.sl-markdown a:hover {
+  color: var(--sl-color-link-hover);
+  border-bottom-color: var(--sl-color-link-hover);
+}
+
+/* 侧栏里的链接不需要虚线下划线 */
+.sl-sidebar a {
+  border-bottom: none;
+}
+
+/* ====== 引用块（blockquote）====== */
+
+/* 像“证人陈述/关键段落”那种引用 */
+.sl-markdown blockquote {
+  border-left: 4px solid #c7d4e2;                   /* 左侧蓝灰线 */
+  background: rgba(199, 212, 226, 0.22);            /* 淡蓝灰底 */
+  padding: 1rem 1.25rem;
+  margin-inline: 0;
+  margin-block: 1.6rem;
+  font-style: normal;
+  color: #2b3542;
+}
+
+/* 引用内的最后一段不要额外 margin */
+.sl-markdown blockquote > *:last-child {
+  margin-bottom: 0;
+}
+
+/* ====== 表格（时间线 & 法规对照）====== */
+
+.sl-markdown table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+  font-size: 0.98rem;
+}
+
+.sl-markdown th,
+.sl-markdown td {
+  border: 1px solid var(--sl-color-border);
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.sl-markdown thead th {
+  background: rgba(31, 75, 110, 0.08); /* 墨蓝轻微高亮 */
+  font-weight: 600;
+}
+
+/* 让长文本单元格更易读 */
+.sl-markdown td p:last-child {
+  margin-bottom: 0;
+}
+
+/* ====== “文件列表 / 档案清单”轻样式 ====== */
+
+.document-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.4rem 0;
+}
+
+.document-list li {
+  padding: 0.55rem 0.3rem;
+  border-bottom: 1px dashed rgba(0,0,0,0.06);
+}
+
+.document-list li:last-child {
+  border-bottom: none;
+}
+
+/* 文档标签（可选用在链接前面） */
+.badge-doc {
+  display: inline-block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.15rem 0.4rem;
+  border-radius: 999px;
+  border: 1px solid rgba(31, 75, 110, 0.42);
+  color: #163550;
+  margin-right: 0.4rem;
+}
+
+/* ====== 小屏优化 ====== */
+
+@media (max-width: 700px) {
+  body {
+    padding: 0.4rem 0.4rem;
+  }
+
+  .sl-markdown {
+    padding-block: 1.5rem;
+    padding-inline: 0.1rem;
+  }
+
+  h1, .sl-markdown h1 {
+    font-size: 2rem;
+  }
+}
+
+/* ====== （可选）暗色模式的简单处理 ====== */
+html[data-theme='dark'] {
+  --sl-color-background: #101316;
+  --sl-color-text: #e5e0d8;
+  --sl-color-border: #2b3440;
+}
+
+html[data-theme='dark'] body,
+html[data-theme='dark'] .sl-root,
+html[data-theme='dark'] .sl-markdown {
+  background: var(--sl-color-background);
+  color: var(--sl-color-text);
+}
+
+html[data-theme='dark'] .sl-markdown blockquote {
+  border-left-color: #3c4b60;
+  background: rgba(60, 75, 96, 0.35);
+}
+
+html[data-theme='dark'] nav [aria-current="page"],
+html[data-theme='dark'] nav [data-active="true"] {
+  background: #213146 !important;
+}
