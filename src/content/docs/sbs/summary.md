@@ -1,251 +1,94 @@
 ---
-title: Home
-description: Overview of WA’s animal welfare FOI timeline, structural vacuums, and democratic illusion.
+title: Case Summary
+description: Between 2022 and 2025, two disabled children were restrained on a Western Australian school bus. No clinical assessment. No review. No fade-out plan.
 ---
 
-# WA Animal Welfare Transparency Archive
+# SBS Harness Case – Summary
 
-> *A public memory — against forgetting.*  
-> *A witness to systems that perform oversight while practising erasure.*
-
----
-
-## What This Is
-This site is a **public evidence archive**.  
-It records not only what government said — but what it refused to document.  
-
-Each FOI request produces one of four symbols:  
-`✓ Found` · `~ In process` · `∅ None` · `✖ Hidden`  
-Together they map **how oversight collapses in plain sight**.
+> _Between 2022 and 2025, **Linden** and **Asoka** were restrained on a Western Australian public school bus under the authority of the Public Transport Authority’s School Bus Services (SBS).  
+> No clinical assessment. No quarterly review. No fade-out plan.  
+> Every oversight body stayed silent._
 
 ---
 
-## 🕊️ The Story of Citizen A
+## 1. What Happened
 
-> *What happens when an ordinary person tries to see?*
+In mid-2022, SBS approved the use of a **mechanical restraint (harness)** for two autistic, non-speaking brothers — Linden and Asoka — so they could travel safely on a regional school bus route.  
+The approval was signed internally by SBS staff **without any occupational therapist, behaviour specialist, or clinical evaluation**.
 
-**Citizen A is an ordinary person.**  
-She has no title, no connections—only the memory of caring for a few animals and knowing they could feel pain.  
-So she asked a simple question: *How are farmed animals living now?*
+From 2022 to 2025, the harness remained in constant use.  
+**No review occurred**, despite SBS’s own Student Transport Assistance Policy (STAP 2020 §6.5) requiring control devices to be “reviewed at least every three months”.
 
-She searched through government websites and found only gentle sentences:
-
-> “We are deeply committed to animal welfare.”
-
-But every link opened onto emptiness—no inspection reports, no penalty records,  
-not even a document describing how inspections were done.
-
-So she lodged a Freedom of Information (FOI) request—  
-the law that promises citizens the “right to know.”
-
-The first reply came quickly:
-
-> “No such documents exist.”
-
-Citizen A was confused.  
-None at all?  
-Then how is the government supervising anything?
-
-She sent an internal review request. Weeks later, a new letter arrived:
-
-> “Some records exist, but they cannot be released.”
-
-So “nothing” became “something, but you can’t see it.”
-
-She asked again:  
-Are there rules for inspections?  
-A standard operating procedure?  
-Any internal risk assessments?
-
-The answer was always the same:
-
-> “No documents exist.”
-
-It turned out there were not only no results—there was no process.
-
-So she filed a third FOI.  
-If all this was missing, had the Agriculture Department reported the issue to the Minister?  
-To Parliament?
-
-Weeks later, the answer came:
-
-> “No documents exist.”
-
-Not a single risk assessment.  
-No briefing note.  
-No memo.  
-
-Even silence had no record.
-
-While sending that request, she also asked the Office of the Information Commissioner (OIC) to review the Department’s handling.  
-But OIC had troubles of its own:
-
-> “Our case backlog is significant. There is no estimated timeframe.”
-
-She then turned to the Ombudsman, asking them to examine the OIC.  
-A courteous letter came back:
-
-> “By law, we cannot investigate the OIC.”  
-> And because the OIC was still reviewing the Department, the Ombudsman could not investigate the Department either.
-
-It was like hearing a door quietly lock.
-
-So she looked deeper.  
-She found that the OIC, the Ombudsman, Parliament committees, and the Auditor General are all **exempt from the FOI Act**.
-
-The very bodies meant to oversee the system  
-are themselves outside public scrutiny.
-
-She tried one more thing:  
-Filed an FOI with the OIC itself, asking for internal policies—  
-How are cases assigned? What are their timelines? How many are delayed?
-
-Weeks passed.  
-Then a short letter arrived:
-
-> “This office is listed in Schedule 2 of the Freedom of Information Act.  
-> The Act does not apply to us.”
-
-Even her filing fee was returned.
-
-**Citizen A smiled.**  
-She had finally seen the full picture:
-- The Agriculture Department was waiting on the OIC.  
-- The OIC could not be supervised.  
-- The Ombudsman could not investigate the OIC.  
-- Parliament could only accept and archive complaints.
-
-All the doors were still there—  
-yet behind each one waited another that read, “Temporarily unavailable.”
-
-She began to understand:  
-inside this grand palace of procedure, everyone had a part to play—  
-one was in charge of saying *“nothing,”*  
-one of saying *“waiting,”*  
-one of saying *“no authority,”*  
-and one of filing everything away.
-
-**Together, they formed a perfect circle,  
-whose center was no one responsible.**
-
-Citizen A felt no anger, and she did not cry.  
-She simply arranged all the letters and refusals,  
-and placed them on a small website.  
-No accusations, no conspiracy theories—just documents and dates.
-
-She called it **Unseen Beings**.
-
-> *The site is a mirror,*  
-> *letting people see for themselves:*  
-> *when an ordinary citizen seeks the truth,*  
-> *the democratic system can, politely and procedurally,*  
-> *show her nothing at all.*
-
-“This isn’t the end of the story,” she says.  
-“It’s only the edge of the map.”
-
-Someday, perhaps, citizens B, C, and D will walk this same path,  
-see the map she left behind,  
-and understand how the illusion works.
+When their parents repeatedly requested a professional review and a fade-out plan in early 2025, SBS responded that **“families are responsible for initiating professional assessment.”**
 
 ---
 
-## Findings So Far
-**FOI1 → Result Vacuum**  
-Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.
+## 2. The Pattern of Inaction
 
-**FOI2 → Process Vacuum**  
-No oversight records, no risk assessments, no compliance frameworks.  
-IR2 upheld the emptiness; ER2 filed.
-
-**FOI3 → Accountability Vacuum**  
-No ministerial briefings, no escalation to OAG/Ombudsman, no internal risk memos since 2022.  
-IR3 confirmed total silence; ER3 filed.
-
-**FOI4 → System Structure Vacuum**  
-No legal-authority logs, no record‑keeping frameworks, no financial delegations for inspectorate functions.
-
-**FOI5 → Ministerial Oversight Vacuum**  
-Testing whether the Minister holds AWAC reports, DI governance briefings, or any statutory oversight records.
-
-**Ombudsman (Sept 2025)**  
-Formally refused jurisdiction over OIC delays, completing the oversight deadlock.
-
-**Outcome:**  
-Oversight bodies now verify their own inertia:  
-OIC = time black hole → Ombudsman = “no jurisdiction” → Parliament = symbolic theatre.  
-**The oversight chain has collapsed by design.**
-
-→ See full chronology in the [Action Log](/action-log).
+| Year | Event | What it shows |
+|------|--------|---------------|
+| **2022 Feb–Aug** | Harness authorised and installed by SBS (Contract Officer Melissa Roe). | Internal approval, no professional oversight. |
+| **2022 – 2025** | Harness used daily, never re-assessed. | Breach of STAP §6.5 quarterly review duty. |
+| **2024 Jul** | PTA silently updates STAP → adds §7.5 “qualified prescriber required”. | Implicit admission of previous policy gap. |
+| **2025 Feb–Aug** | Parents request review + fade-out plan. SBS replies: “Families responsible.” | Delegation of duty → burden shifted to family. |
+| **2025 Oct 20** | PTA “Final Response” letter. Acknowledges no review occurred. Refuses investigation. | Administrative maladministration confirmed. |
 
 ---
 
-## 🧩 Analyses & Evidence
+## 3. Oversight Chain – and How It Broke
 
-These pages place the FOI evidence within its structural context —  
-how transparency became its own disguise,  
-and how the OIC was *starved into dysfunction.*
+### Ombudsman WA
+- Complaint C/53598 lodged Aug 2025 → **not investigated.**  
+- Office forwarded it to PTA for self-response, contrary to §17 of the Parliamentary Commissioner Act 1971.  
+- A new case number (C/54176) was later created — effectively **“washing the case.”**
 
-- 🪞 [The Illusion of Democratic Oversight](/democratic-illusion)  
-  *How a transparent system becomes its own mask.*
+### Equal Opportunity Commission WA
+- Accepted as an “impairment discrimination” complaint under the Equal Opportunity Act 1984 (WA).  
+- Confirmed it **cannot investigate federal disability standards or restrictive practice frameworks.**  
+- Case remains open but limited to state jurisdiction.
 
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation)  
-  *23 years of deliberate underfunding and predictable collapse.*
-
----
-
-## 📚 Context & History
-
-To understand how this system evolved —  
-how promises repeated, language recycled, and accountability dissolved —  
-read these two historical mirrors:
-
-- ⚖️ [Official Claims vs. Reality](/contradictions)  
-  *What governments said about animal welfare — and what FOI records reveal.*
-
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline)  
-  *A quarter century of debates that promised transparency, delivered silence.*
+### Australian Human Rights Commission (AHRC)
+- Complaint lodged under the **Disability Discrimination Act 1992 (Cth).**  
+- Refused under **section 13(4)** because a state complaint (EOC WA) was already in progress.  
+- When asked to review the decision, the Commission confirmed the bar remains — creating a **jurisdictional dead loop.**
 
 ---
 
-## Why It Matters
+## 4. Legal and Policy Context
 
-Since 2023, unauthorised filming or entry into animal farming facilities has been criminalised in WA.  
-This leaves **Designated Inspectors (DIs)** as the **sole legal witnesses** inside spaces where animals often endure **extreme confinement, mutilation, and psychological trauma**.
-
-What vanishes in this silence is not just institutional data, but the **reality of lives endured in cages, crates, and industrial sheds**.  
-**Animals live, suffer, and die in silence. This site ensures that silence is not total.**
-
----
-
-## Transparency Timeline (Key Points)
-
-| Year | Event | Reality |
-|------|-------|----------|
-| 2002 | Animal Welfare Act | “Modern law” with no enforcement framework |
-| 2020 | Independent Review | 52 recommendations supported, none enacted |
-| 2023 | Trespass & DI Act | DIs created, transparency used to justify repression |
-| 2025 | FOI Cycles | Void proven across law, policy, and oversight |
+| Framework | Required by Law | What Actually Happened |
+|------------|----------------|------------------------|
+| **STAP 2020 §6.5** | Control devices must be reviewed every 3 months. | No review in 3 years. |
+| **STAP 2024 §7.5** | Must be prescribed by a qualified professional with a review schedule. | Policy introduced after 3 years of non-compliance. |
+| **Disability Services Act 1993 (WA)** | State agencies must ensure qualified assessment and safe services. | Duty delegated to parents. |
+| **Disability Standards for Education 2005 (Cth)** | Reasonable adjustments and least restrictive support. | No therapist input, no adjustment plan. |
+| **National Framework for Reducing Restrictive Practices (2014)** | Any mechanical restraint must be professionally supervised and time-limited. | Ignored. |
 
 ---
 
-## Structural Meaning
-What began as bureaucracy has revealed itself as **architecture** —  
-a deliberately hollow system built to display responsibility while erasing evidence.  
-This archive exists to preserve that design in public record.
+## 5. Where Things Stand Now
+
+- **PTA/SBS:** Acknowledged the policy breach but refused to remedy it.  
+- **Ombudsman WA:** No investigation initiated.  
+- **EOC WA:** Complaint accepted under state law only; no federal review.  
+- **AHRC:** Closed under s13(4) — jurisdiction bar remains.  
+- **Family:** Left without clinical support or fade-out plan; Linden still travels restrained each day.
 
 ---
 
-## Navigate
+## 6. What This Case Reveals
 
-- 📜 [Action Log](/action-log) – FOI cycles and institutional responses  
-- ⚖️ [Official Claims vs. Reality](/contradictions) – government statements vs. FOI findings  
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline) – long-view pattern of promises and voids  
-- 🧩 [The Illusion of Democratic Oversight](/democratic-illusion) – how transparency becomes its own disguise  
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) – 23 years of deliberate underfunding and collapse  
-- 📂 [Resources](/resources) – all source documents  
-- 🧭 [About](/about) – method & philosophy
+> **Administrative Maladministration → Regulatory Vacuum → Disability Burden Shift → Jurisdictional Dead Loop**
+
+Each layer of oversight functions formally, yet in practice cancels the one beneath it.  
+A family followed every rule. Every rule failed them.
 
 ---
 
-_Last updated: November 2025_
+### → Next Pages
+
+- [Timeline (2022–2025)](/sbs/timeline)  
+- [Oversight Chain](/sbs/oversight)  
+- [Policy & Legal Map](/sbs/policy-map)  
+- [Documents Archive](/sbs/documents)  
+- [Impact on Our Family](/sbs/impact)

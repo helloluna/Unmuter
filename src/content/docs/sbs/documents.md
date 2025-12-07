@@ -1,251 +1,191 @@
 ---
-title: Home
-description: Overview of WA’s animal welfare FOI timeline, structural vacuums, and democratic illusion.
+title: Downloads & Resources
+description: Original documents and legal materials used in the SBS harness case on unmuter.org.
 ---
 
-# WA Animal Welfare Transparency Archive
+# Downloads & Resources
 
-> *A public memory — against forgetting.*  
-> *A witness to systems that perform oversight while practising erasure.*
+This page collects the key documents used in the SBS harness case:
+agency correspondence, complaint records, and the legal frameworks that
+should have protected disabled children from unreviewed restrictive practices.
 
----
-
-## What This Is
-This site is a **public evidence archive**.  
-It records not only what government said — but what it refused to document.  
-
-Each FOI request produces one of four symbols:  
-`✓ Found` · `~ In process` · `∅ None` · `✖ Hidden`  
-Together they map **how oversight collapses in plain sight**.
+Personal names of children, classmates and therapists have been removed
+for privacy. Public officials are named where they signed decisions or
+held executive responsibility.
 
 ---
 
-## 🕊️ The Story of Citizen A
+## 1. PTA / SBS – Case Documents
 
-> *What happens when an ordinary person tries to see?*
+These files show how SBS approved and maintained the harness over three years,
+and how PTA responded when asked to review and step down its use.
 
-**Citizen A is an ordinary person.**  
-She has no title, no connections—only the memory of caring for a few animals and knowing they could feel pain.  
-So she asked a simple question: *How are farmed animals living now?*
+### 1.1 Approval Letters (2022)
 
-She searched through government websites and found only gentle sentences:
+- 📄 [Linden_SBS_Approval_Letter.PDF](/resources/Linden_SBS_Approval_Letter.PDF)  
+- 📄 [Asoka_SBS_Approval_Letter.PDF](/resources/Asoka_SBS_Approval_Letter.PDF)  
 
-> “We are deeply committed to animal welfare.”
+> Transport assistance approval letters confirming school bus access and
+> the use of a harness, without any attached clinical assessment or
+> fade-out plan.
 
-But every link opened onto emptiness—no inspection reports, no penalty records,  
-not even a document describing how inspections were done.
+### 1.2 SBS Email Chains (2022–2025)
 
-So she lodged a Freedom of Information (FOI) request—  
-the law that promises citizens the “right to know.”
+- 📄 [SBS_email_chain_2022.pdf](/resources/SBS_email_chain_2022.pdf)  
+- 📄 [SBS_email_chain_2025.pdf](/resources/SBS_email_chain_2025.pdf)  
 
-The first reply came quickly:
+> Email correspondence between the family, school and SBS.  
+> Shows how harness use was introduced and then left in place for three
+> years with no review, and how requests for documentation and a
+> step-down plan were redirected back to the family.
 
-> “No such documents exist.”
+### 1.3 PTA “Final Response” (2025)
 
-Citizen A was confused.  
-None at all?  
-Then how is the government supervising anything?
+- 📄 [PTS_Ombusdman_letter.pdf](/resources/PTS_Ombusdman_letter.pdf)  
+- 📄 [sbs_statement_cover_letter.pdf](/resources/sbs_statement_cover_letter.pdf)  
 
-She sent an internal review request. Weeks later, a new letter arrived:
+> PTA’s written position in response to the Ombudsman referral.  
+> Admits there was no review of the harness, and states that “families
+> are responsible” for initiating professional assessment.
 
-> “Some records exist, but they cannot be released.”
+### 1.4 SBS Policies
 
-So “nothing” became “something, but you can’t see it.”
+- 📄 [SBS_POLICY_2020.pdf](/resources/SBS_POLICY_2020.pdf)  
+- 📄 [SBS_POLICY_2025.pdf](/resources/SBS_POLICY_2025.pdf)  
 
-She asked again:  
-Are there rules for inspections?  
-A standard operating procedure?  
-Any internal risk assessments?
-
-The answer was always the same:
-
-> “No documents exist.”
-
-It turned out there were not only no results—there was no process.
-
-So she filed a third FOI.  
-If all this was missing, had the Agriculture Department reported the issue to the Minister?  
-To Parliament?
-
-Weeks later, the answer came:
-
-> “No documents exist.”
-
-Not a single risk assessment.  
-No briefing note.  
-No memo.  
-
-Even silence had no record.
-
-While sending that request, she also asked the Office of the Information Commissioner (OIC) to review the Department’s handling.  
-But OIC had troubles of its own:
-
-> “Our case backlog is significant. There is no estimated timeframe.”
-
-She then turned to the Ombudsman, asking them to examine the OIC.  
-A courteous letter came back:
-
-> “By law, we cannot investigate the OIC.”  
-> And because the OIC was still reviewing the Department, the Ombudsman could not investigate the Department either.
-
-It was like hearing a door quietly lock.
-
-So she looked deeper.  
-She found that the OIC, the Ombudsman, Parliament committees, and the Auditor General are all **exempt from the FOI Act**.
-
-The very bodies meant to oversee the system  
-are themselves outside public scrutiny.
-
-She tried one more thing:  
-Filed an FOI with the OIC itself, asking for internal policies—  
-How are cases assigned? What are their timelines? How many are delayed?
-
-Weeks passed.  
-Then a short letter arrived:
-
-> “This office is listed in Schedule 2 of the Freedom of Information Act.  
-> The Act does not apply to us.”
-
-Even her filing fee was returned.
-
-**Citizen A smiled.**  
-She had finally seen the full picture:
-- The Agriculture Department was waiting on the OIC.  
-- The OIC could not be supervised.  
-- The Ombudsman could not investigate the OIC.  
-- Parliament could only accept and archive complaints.
-
-All the doors were still there—  
-yet behind each one waited another that read, “Temporarily unavailable.”
-
-She began to understand:  
-inside this grand palace of procedure, everyone had a part to play—  
-one was in charge of saying *“nothing,”*  
-one of saying *“waiting,”*  
-one of saying *“no authority,”*  
-and one of filing everything away.
-
-**Together, they formed a perfect circle,  
-whose center was no one responsible.**
-
-Citizen A felt no anger, and she did not cry.  
-She simply arranged all the letters and refusals,  
-and placed them on a small website.  
-No accusations, no conspiracy theories—just documents and dates.
-
-She called it **Unseen Beings**.
-
-> *The site is a mirror,*  
-> *letting people see for themselves:*  
-> *when an ordinary citizen seeks the truth,*  
-> *the democratic system can, politely and procedurally,*  
-> *show her nothing at all.*
-
-“This isn’t the end of the story,” she says.  
-“It’s only the edge of the map.”
-
-Someday, perhaps, citizens B, C, and D will walk this same path,  
-see the map she left behind,  
-and understand how the illusion works.
+> Student Transport Assistance Policy (STAP) documents.  
+> The later policy introduces a requirement for a “qualified prescriber”
+> and review schedule, highlighting the earlier policy gap.
 
 ---
 
-## Findings So Far
-**FOI1 → Result Vacuum**  
-Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.
+## 2. Ombudsman WA – Administrative Oversight
 
-**FOI2 → Process Vacuum**  
-No oversight records, no risk assessments, no compliance frameworks.  
-IR2 upheld the emptiness; ER2 filed.
+These documents show how the Ombudsman’s office handled (and reset) the
+complaint about PTA’s failure to review the harness.
 
-**FOI3 → Accountability Vacuum**  
-No ministerial briefings, no escalation to OAG/Ombudsman, no internal risk memos since 2022.  
-IR3 confirmed total silence; ER3 filed.
+- 📄 [Ombudsman_SBS_application.pdf](/resources/Ombudsman_SBS_application%20.pdf)  
+- 📄 [Ombudsman_casewash.pdf](/resources/Ombudsman_casewash.pdf)  
 
-**FOI4 → System Structure Vacuum**  
-No legal-authority logs, no record‑keeping frameworks, no financial delegations for inspectorate functions.
-
-**FOI5 → Ministerial Oversight Vacuum**  
-Testing whether the Minister holds AWAC reports, DI governance briefings, or any statutory oversight records.
-
-**Ombudsman (Sept 2025)**  
-Formally refused jurisdiction over OIC delays, completing the oversight deadlock.
-
-**Outcome:**  
-Oversight bodies now verify their own inertia:  
-OIC = time black hole → Ombudsman = “no jurisdiction” → Parliament = symbolic theatre.  
-**The oversight chain has collapsed by design.**
-
-→ See full chronology in the [Action Log](/action-log).
+> The original complaint and subsequent correspondence.  
+> Demonstrates referral back to PTA instead of investigation, and
+> the later creation of a new case number that effectively resets
+> the timeline.
 
 ---
 
-## 🧩 Analyses & Evidence
+## 3. Equal Opportunity Commission WA (EOC)
 
-These pages place the FOI evidence within its structural context —  
-how transparency became its own disguise,  
-and how the OIC was *starved into dysfunction.*
+These files document the state discrimination complaint and the limits of
+EOC’s jurisdiction.
 
-- 🪞 [The Illusion of Democratic Oversight](/democratic-illusion)  
-  *How a transparent system becomes its own mask.*
+- 📄 [EOC_FIRST_ASSESSMENT.pdf](/resources/EOC_FIRST_ASSESSMENT.pdf)  
+- 📄 [EOC_ACCEPTANCE.pdf](/resources/EOC_ACCEPTANCE.pdf)  
+- 📄 [Eoc_email_chain.pdf](/resources/Eoc_email_chain.pdf)  
 
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation)  
-  *23 years of deliberate underfunding and predictable collapse.*
+> The EOC correspondence confirms that the matter is accepted under the
+> Equal Opportunity Act 1984 (WA) as an impairment discrimination
+> complaint, but that EOC cannot deal with federal disability standards
+> or restrictive-practices frameworks.
 
----
-
-## 📚 Context & History
-
-To understand how this system evolved —  
-how promises repeated, language recycled, and accountability dissolved —  
-read these two historical mirrors:
-
-- ⚖️ [Official Claims vs. Reality](/contradictions)  
-  *What governments said about animal welfare — and what FOI records reveal.*
-
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline)  
-  *A quarter century of debates that promised transparency, delivered silence.*
+> **Private notes** such as phone briefs and transcripts are kept
+> offline and are not listed here.
 
 ---
 
-## Why It Matters
+## 4. Australian Human Rights Commission (AHRC)
 
-Since 2023, unauthorised filming or entry into animal farming facilities has been criminalised in WA.  
-This leaves **Designated Inspectors (DIs)** as the **sole legal witnesses** inside spaces where animals often endure **extreme confinement, mutilation, and psychological trauma**.
+These materials show the attempt to bring the case under the Disability
+Discrimination Act 1992 (Cth), and how section 13(4) was used to refuse
+the complaint.
 
-What vanishes in this silence is not just institutional data, but the **reality of lives endured in cages, crates, and industrial sheds**.  
-**Animals live, suffer, and die in silence. This site ensures that silence is not total.**
+- 📄 [AHRC_Complaint_form.pdf](/resources/AHRC_Complaint_form.pdf)  
+- 📄 [Authority_to_Act.pdf](/resources/Authority_to_Act.pdf)  
+- 📄 [ahrc_case_closure.pdf](/resources/ahrc_case_closure.pdf)  
+- 📄 [Ahrc_email_chain.pdf](/resources/Ahrc_email_chain.pdf)  
 
----
-
-## Transparency Timeline (Key Points)
-
-| Year | Event | Reality |
-|------|-------|----------|
-| 2002 | Animal Welfare Act | “Modern law” with no enforcement framework |
-| 2020 | Independent Review | 52 recommendations supported, none enacted |
-| 2023 | Trespass & DI Act | DIs created, transparency used to justify repression |
-| 2025 | FOI Cycles | Void proven across law, policy, and oversight |
+> The complaint was lodged under the DDA with authority to act on behalf
+> of non-verbal children.  
+> The Commission then closed the matter under section 13(4) because a
+> related complaint was already on foot at the state level (EOC WA),
+> and later confirmed that this bar would remain in place.
 
 ---
 
-## Structural Meaning
-What began as bureaucracy has revealed itself as **architecture** —  
-a deliberately hollow system built to display responsibility while erasing evidence.  
-This archive exists to preserve that design in public record.
+## 5. Legal & Policy Frameworks
+
+These are the statutes, standards and frameworks that should guide how
+public bodies treat disabled children and the use of restrictive
+practices.
+
+### 5.1 Disability Rights & Anti-discrimination (Australia)
+
+- 📘 [Disability_Discrimination_Act_1992.pdf](/resources/Disability_Discrimination_Act_1992.pdf)  
+- 📘 [Equal_Opportunity_Act_1984.pdf](/resources/Equal_Opportunity_Act_1984.pdf)  
+- 📘 [Disability_Services_Act_1993.pdf](/resources/Disability_Services_Act_1993.pdf)  
+- 📘 [Impairment_Discrimination_FactSheet.pdf](/resources/Impairment_Discrimination_FactSheet.pdf)  
+- 📘 [unlawful_discrimination_fact_sheet.pdf](/resources/unlawful_discrimination_fact_sheet.pdf)  
+
+### 5.2 Education & Restrictive Practices
+
+- 📘 [Disability_Standards_for_Education_2005.pdf](/resources/Disability_Standards_for_Education_2005.pdf)  
+- 📘 [national_framework_for_reducing_RRP.pdf](/resources/national_framework_for_reducing_RRP.pdf)  
+- 📘 [NDIS_regulated-restrictive-practice-guide.pdf](/resources/NDIS_regulated-restrictive-practice-guide.pdf)  
+
+### 5.3 NDIS & Federal Human Rights
+
+- 📘 [National_Disability_Insurance_Scheme_Act_2013.pdf](/resources/National_Disability_Insurance_Scheme_Act_2013.pdf)  
+- 📘 [Australian_Human_Rights_Commission_Act_1986.pdf](/resources/Australian_Human_Rights_Commission_Act_1986.pdf)  
+
+### 5.4 Administrative Oversight & International Law
+
+- 📘 [WA_Parliamentary_Commissioner_Act_1971.pdf](/resources/WA_Parliamentary_Commissioner_Act_1971.pdf)  
+- 📘 [convention_accessible.pdf](/resources/convention_accessible.pdf)  
+
+> Includes the WA Parliamentary Commissioner Act (which sets out the
+> Ombudsman’s powers and duties) and the UN Convention on the Rights of
+> Persons with Disabilities (CRPD), used as a reference point for the
+> case.
 
 ---
 
-## Navigate
+## 6. File Index (Alphabetical)
 
-- 📜 [Action Log](/action-log) – FOI cycles and institutional responses  
-- ⚖️ [Official Claims vs. Reality](/contradictions) – government statements vs. FOI findings  
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline) – long-view pattern of promises and voids  
-- 🧩 [The Illusion of Democratic Oversight](/democratic-illusion) – how transparency becomes its own disguise  
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) – 23 years of deliberate underfunding and collapse  
-- 📂 [Resources](/resources) – all source documents  
-- 🧭 [About](/about) – method & philosophy
+For quick cross-checking, all files are listed here in alphabetical order:
+
+- ahrc_case_closure.pdf  
+- AHRC_Complaint_form.pdf  
+- Ahrc_email_chain.pdf  
+- Asoka_SBS_Approval_Letter.PDF  
+- Australian_Human_Rights_Commission_Act_1986.pdf  
+- Authority_to_Act.pdf  
+- convention_accessible.pdf  
+- Disability_Discrimination_Act_1992.pdf  
+- Disability_Services_Act_1993.pdf  
+- Disability_Standards_for_Education_2005.pdf  
+- EOC_ACCEPTANCE.pdf  
+- Eoc_email_chain.pdf  
+- EOC_FIRST_ASSESSMENT.pdf  
+- Equal_Opportunity_Act_1984.pdf  
+- Impairment_Discrimination_FactSheet.pdf  
+- Linden_SBS_Approval_Letter.PDF
+- National_Disability_Insurance_Scheme_Act_2013.pdf  
+- national_framework_for_reducing_RRP.pdf  
+- NDIS_regulated-restrictive-practice-guide.pdf  
+- Ombudsman_casewash.pdf  
+- Ombudsman_SBS_application .pdf  
+- PTS_Ombusdman_letter.pdf  
+- SBS_email_chain_2022.pdf  
+- SBS_email_chain_2025.pdf  
+- SBS_POLICY_2020.pdf  
+- SBS_POLICY_2025.pdf  
+- sbs_statement_cover_letter.pdf  
+- unlawful_discrimination_fact_sheet.pdf  
+- WA_Parliamentary_Commissioner_Act_1971.pdf
 
 ---
 
-_Last updated: November 2025_
+_This archive is designed so that any reader can retrace the case:
+from the first approval letters and internal policies, through each
+complaint and refusal, to the legal frameworks that were never properly
+applied._

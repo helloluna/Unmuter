@@ -1,27 +1,37 @@
-/* starlight.css — unmuter.org 主题 */
-/* 关键词：暖纸背景、墨蓝强调、人权档案感 */
+/* ============================================================
+   unmuter.org Theme — Human Rights Archive + OHCHR Hybrid
+   Light = 档案室白天 · Dark = 夜间阅览室
+   ============================================================ */
 
-/* ====== 全局变量（颜色 & 字体）====== */
+/* ========= 基础变量（Light Mode） ========= */
 :root {
-  /* 字体：清晰、适合长文阅读 */
-  --sl-font-body: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
-  --sl-font-heading: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans', 'Nunito', sans-serif;
+  --sl-font-body: "Inter", "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+  --sl-font-heading: "Source Serif Pro", "Georgia", "Times New Roman", serif;
 
-  /* 颜色：暖纸 + 墨蓝 */
-  --sl-color-text: #27241f;          /* 主正文：深棕灰（眼睛舒服） */
-  --sl-color-background: #f9f4ec;    /* 背景：偏暖纸张色 */
-  --sl-color-brand: #1f4b6e;         /* 品牌色：墨蓝（标题/链接） */
-  --sl-color-link: #1f4b6e;          /* 链接：同上 */
-  --sl-color-link-hover: #163550;    /* 悬停：更深一点的墨蓝 */
-  --sl-color-border: #e0d8cc;        /* 边框：淡咖啡色 */
-  --sl-content-width: 46rem;         /* 正文最大宽度 */
+  --sl-color-text: #26231e;
+  --sl-color-background: #f7f3ec;   /* 暖纸色 */
+  --sl-color-brand: #1f4b6e;        /* 墨蓝（标题/链接） */
+  --sl-color-accent: #d3572c;       /* 档案橙红（强调） */
+
+  --sl-color-link: var(--sl-color-brand);
+  --sl-color-link-hover: #163550;
+
+  --sl-color-border: #ded6c8;
+  --sl-content-width: 48rem;
+
   --sl-line-height: 1.85;
-  --sl-space-block: 2.1rem;
 }
 
-/* ====== 基础排版 ====== */
+/* ========= Dark Mode 变量 ========= */
+:root[data-theme="dark"] {
+  --sl-color-text: #e1ddd6;
+  --sl-color-background: #111417;   /* 夜间深色 */
+  --sl-color-brand: #4e8ccf;        /* 夜间蓝 */
+  --sl-color-accent: #e57c50;
+  --sl-color-border: #343b44;
+}
 
-/* 正文 + 整体排版 */
+/* ========= 全局文字 & 布局 ========= */
 body,
 .sl-root,
 .sl-markdown,
@@ -34,166 +44,258 @@ nav,
   color: var(--sl-color-text);
   line-height: var(--sl-line-height);
   letter-spacing: 0.015em;
-}
-
-body {
   margin: 0;
-  max-width: none;
-  background: var(--sl-color-background);
+  padding: 0;
 }
 
-/* 主内容区域：居中窄版，像报告书 */
+/* 可选：纸张纹理（public/textures/paper.png 存在时更好看） */
+body {
+  background:
+    url("/textures/paper.png") repeat,
+    var(--sl-color-background);
+  background-size: 500px;
+}
+
+/* 主内容区域：像一张纸放在桌面上 */
 .sl-markdown {
-  padding-block: 2.2rem;
   margin-inline: auto;
   max-width: var(--sl-content-width);
+  padding: 2rem 2.5rem;
+  background: rgba(255,255,255,0.55);
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  animation: fadein 0.35s ease-out;
 }
 
-/* 段落与区块间距 */
+/* 内容内元素间距 */
 .sl-markdown > * {
   margin-top: 0.4rem;
-  margin-bottom: 1.35rem;
+  margin-bottom: 1.3rem;
 }
 
-/* ====== 标题风格 ====== */
-
-h1, h2, h3,
+/* ========= 标题 ========= */
+h1,
+h2,
+h3,
 .sl-markdown h1,
 .sl-markdown h2,
 .sl-markdown h3 {
   color: var(--sl-color-brand);
   font-family: var(--sl-font-heading) !important;
   font-weight: 600;
-  margin-top: 2.2rem;
+  margin-top: 2.1rem;
   margin-bottom: 1.1rem;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.035em;
 }
 
-h1, .sl-markdown h1 {
-  font-size: 2.25rem;
-}
+h1,
+.sl-markdown h1 { font-size: 2.3rem; }
 
-h2, .sl-markdown h2 {
-  font-size: 1.55rem;
-}
+h2,
+.sl-markdown h2 { font-size: 1.6rem; }
 
-h3, .sl-markdown h3 {
-  font-size: 1.18rem;
-}
+h3,
+.sl-markdown h3 { font-size: 1.18rem; }
 
-/* 页面主标题下方加一点“档案感”的细线 */
+/* 主标题下的导语加细线，像报告 */
 .sl-markdown h1 + p {
   border-top: 1px solid rgba(0,0,0,0.06);
   padding-top: 0.9rem;
   margin-top: 0.6rem;
 }
 
-/* ====== 侧栏（Sidebar）====== */
-
-/* 分区标题：略深，微加粗 */
-.sl-sidebar-section-title {
-  color: #3a3228;
-  font-weight: 700;
-  font-size: 1.05rem;
-  margin-bottom: 0.25rem;
+/* Dark mode 标题稍亮 */
+:root[data-theme="dark"] h1,
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3,
+:root[data-theme="dark"] .sl-markdown h1,
+:root[data-theme="dark"] .sl-markdown h2,
+:root[data-theme="dark"] .sl-markdown h3 {
+  color: #e9edf3;
 }
 
-/* 侧栏整体风格 */
-nav,
-.sl-sidebar {
-  font-size: 1.02rem;
-  letter-spacing: 0.02em;
-}
-
-/* 侧栏链接：去掉下划线，只用颜色区分 */
-.sl-sidebar a {
-  color: #4a4339;
-  border: none;
-}
-
-/* 当前页高亮：浅蓝灰底 + 墨蓝字 */
-nav [aria-current="page"],
-nav [data-active="true"] {
-  background: #e4edf5 !important;
-  color: var(--sl-color-brand) !important;
-  font-weight: 700;
-  border-radius: 7px;
-  box-shadow: none !important;
-}
-
-/* hover 时略微加深 */
-.sl-sidebar a:hover {
-  color: var(--sl-color-link-hover);
-}
-
-/* ====== 链接样式 ====== */
-
+/* ========= 链接 ========= */
 a,
-.sl-markdown a {
+.sl-markdown a,
+.sl-sidebar a {
   color: var(--sl-color-link);
   border-bottom: 1px dashed var(--sl-color-link);
   text-decoration: none;
-  transition: color 0.18s ease, border-bottom-color 0.18s ease;
+  transition: color 0.18s, border-bottom-color 0.18s;
 }
 
 a:hover,
-.sl-markdown a:hover {
+.sl-markdown a:hover,
+.sl-sidebar a:hover {
   color: var(--sl-color-link-hover);
   border-bottom-color: var(--sl-color-link-hover);
 }
 
-/* 侧栏里的链接不需要虚线下划线 */
+/* Sidebar 链接不需要下划线 */
 .sl-sidebar a {
-  border-bottom: none;
+  border-bottom: none !important;
 }
 
-/* ====== 引用块（blockquote）====== */
-
-/* 像“证人陈述/关键段落”那种引用 */
+/* ========= 引用块 ========= */
 .sl-markdown blockquote {
-  border-left: 4px solid #c7d4e2;                   /* 左侧蓝灰线 */
-  background: rgba(199, 212, 226, 0.22);            /* 淡蓝灰底 */
-  padding: 1rem 1.25rem;
+  border-left: 4px solid #c2d3e0;
+  background: rgba(194, 211, 224, 0.25);
+  padding: 1.05rem 1.3rem;
   margin-inline: 0;
-  margin-block: 1.6rem;
+  margin-block: 1.8rem;
   font-style: normal;
-  color: #2b3542;
+  color: #2d3643;
 }
 
-/* 引用内的最后一段不要额外 margin */
-.sl-markdown blockquote > *:last-child {
-  margin-bottom: 0;
+/* Dark mode 引用 */
+:root[data-theme="dark"] .sl-markdown blockquote {
+  background: rgba(78,140,207,0.16);
+  border-color: rgba(78,140,207,0.5);
 }
 
-/* ====== 表格（时间线 & 法规对照）====== */
-
+/* ========= 表格 ========= */
 .sl-markdown table {
   border-collapse: collapse;
   width: 100%;
   margin: 2rem 0;
-  font-size: 0.98rem;
+  font-size: 0.97rem;
 }
 
 .sl-markdown th,
 .sl-markdown td {
   border: 1px solid var(--sl-color-border);
-  padding: 0.6rem 0.8rem;
+  padding: 0.7rem 0.9rem;
   text-align: left;
   vertical-align: top;
 }
 
-.sl-markdown thead th {
-  background: rgba(31, 75, 110, 0.08); /* 墨蓝轻微高亮 */
+/* ⭐ 表头颜色（UN蓝系） */
+.sl-markdown table thead th,
+table thead th {
+  background-color: rgba(31, 75, 110, 0.12) !important;
+  color: #1f4b6e !important;
+  font-weight: 600 !important;
+  border-bottom: 1px solid rgba(31, 75, 110, 0.25);
+}
+
+.sl-markdown table thead th:hover {
+  background-color: rgba(31, 75, 110, 0.18) !important;
+}
+
+/* Dark mode 表头 */
+:root[data-theme="dark"] .sl-markdown table thead th,
+:root[data-theme="dark"] table thead th {
+  background-color: rgba(31, 75, 110, 0.32) !important;
+  color: #e9edf3 !important;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* ========= Sidebar ========= */
+.sl-sidebar-section-title {
+  color: #3a332b;
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 0.3rem;
+}
+
+:root[data-theme="dark"] .sl-sidebar-section-title {
+  color: #d8cec7;
+}
+
+nav,
+.sl-sidebar {
+  font-family: var(--sl-font-body) !important;
+  font-size: 1.02rem;
+  letter-spacing: 0.02em;
+}
+
+/* 当前页面高亮：浅蓝背景 + 墨蓝字 */
+nav [aria-current="page"],
+nav [data-active="true"] {
+  background: #e6f0f9 !important;
+  color: var(--sl-color-brand) !important;
+  font-weight: 700;
+  border-radius: 7px;
+}
+
+/* Dark mode sidebar 高亮 */
+:root[data-theme="dark"] nav [aria-current="page"],
+:root[data-theme="dark"] nav [data-active="true"] {
+  background: #213146 !important;
+  color: #e9edf3 !important;
+}
+
+/* ========= Dark mode 全局覆盖 ========= */
+:root[data-theme="dark"] body,
+:root[data-theme="dark"] .sl-root,
+:root[data-theme="dark"] .sl-markdown,
+:root[data-theme="dark"] nav,
+:root[data-theme="dark"] .sl-sidebar {
+  background: var(--sl-color-background);
+  color: var(--sl-color-text);
+}
+
+/* =========================================
+   ARCHIVE COMPONENTS — 专门给 unmuter 用
+   ========================================= */
+
+/* 时间线条目 */
+.timeline-item {
+  border-left: 4px solid var(--sl-color-brand);
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+  background: rgba(31, 75, 110, 0.04);
+  padding-block: 0.7rem;
+  border-radius: 4px;
+}
+
+/* 时间线小圆点 */
+.timeline-dot {
+  height: 10px;
+  width: 10px;
+  background: var(--sl-color-accent);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+/* 证据盒（Evidence Box） */
+.evidence-box {
+  border: 1px solid var(--sl-color-border);
+  background: rgba(0, 0, 0, 0.03);
+  padding: 1rem 1.2rem;
+  margin: 1.8rem 0;
+  border-left: 4px solid var(--sl-color-accent);
+  border-radius: 6px;
+}
+
+.evidence-box strong {
+  color: var(--sl-color-accent);
+}
+
+/* Impact Section（家庭视角） */
+.impact-section {
+  background: rgba(211, 87, 44, 0.06);
+  border-left: 4px solid var(--sl-color-accent);
+  padding: 1.4rem 1.4rem;
+  margin: 2.2rem 0;
+  border-radius: 6px;
+  font-size: 1.05rem;
+  color: #3c2f29;
+}
+
+/* 重点句（大号 quote） */
+.impact-quote {
+  font-size: 1.45rem;
+  color: var(--sl-color-accent);
   font-weight: 600;
+  border-left: 4px solid var(--sl-color-accent);
+  padding-left: 1rem;
+  margin: 2.2rem 0;
+  line-height: 1.4;
 }
 
-/* 让长文本单元格更易读 */
-.sl-markdown td p:last-child {
-  margin-bottom: 0;
-}
-
-/* ====== “文件列表 / 档案清单”轻样式 ====== */
-
+/* 文档列表 */
 .document-list {
   list-style: none;
   padding-left: 0;
@@ -201,64 +303,89 @@ a:hover,
 }
 
 .document-list li {
-  padding: 0.55rem 0.3rem;
-  border-bottom: 1px dashed rgba(0,0,0,0.06);
+  padding: 0.6rem 0.4rem;
+  border-bottom: 1px dashed rgba(0,0,0,0.07);
+  display: flex;
+  align-items: center;
 }
 
 .document-list li:last-child {
   border-bottom: none;
 }
 
-/* 文档标签（可选用在链接前面） */
-.badge-doc {
-  display: inline-block;
-  font-size: 0.72rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  padding: 0.15rem 0.4rem;
+/* 文档标签（PTA / OMB / EOC / AHRC 等） */
+.document-badge {
+  font-size: 0.75rem;
+  color: var(--sl-color-accent);
+  border: 1px solid var(--sl-color-accent);
+  padding: 0.1rem 0.45rem;
   border-radius: 999px;
-  border: 1px solid rgba(31, 75, 110, 0.42);
-  color: #163550;
-  margin-right: 0.4rem;
+  margin-right: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
-/* ====== 小屏优化 ====== */
+/* 档案卡片 */
+.archive-card {
+  border-left: 4px solid var(--sl-color-brand);
+  padding: 1rem 1.4rem;
+  margin: 1.5rem 0;
+  background: rgba(31,75,110,0.05);
+  border-radius: 6px;
+}
 
+.archive-card h3 {
+  margin-top: 0;
+}
+
+/* 胶带标签（可用于 PDF 标记） */
+.tape {
+  background: rgba(255, 239, 180, 0.85);
+  padding: 0.3rem 0.6rem;
+  transform: rotate(-1.5deg);
+  display: inline-block;
+  box-shadow: 0 2px 6px rgba(0,0,0,.1);
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* 小注释（档案脚注） */
+.note {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.85rem;
+  color: #6a645c;
+}
+
+/* 图片说明 */
+.caption {
+  font-size: 0.85rem;
+  color: #5e5a54;
+  text-align: center;
+  margin-top: -0.6rem;
+  margin-bottom: 1.6rem;
+}
+
+/* =========================================
+   动画 & Mobile
+   ========================================= */
+
+@keyframes fadein {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Mobile 调整 */
 @media (max-width: 700px) {
   body {
     padding: 0.4rem 0.4rem;
   }
 
   .sl-markdown {
-    padding-block: 1.5rem;
-    padding-inline: 0.1rem;
+    max-width: 92%;
+    padding: 1.5rem 1.2rem;
   }
 
-  h1, .sl-markdown h1 {
-    font-size: 2rem;
-  }
-}
-
-/* ====== （可选）暗色模式的简单处理 ====== */
-html[data-theme='dark'] {
-  --sl-color-background: #101316;
-  --sl-color-text: #e5e0d8;
-  --sl-color-border: #2b3440;
-}
-
-html[data-theme='dark'] body,
-html[data-theme='dark'] .sl-root,
-html[data-theme='dark'] .sl-markdown {
-  background: var(--sl-color-background);
-  color: var(--sl-color-text);
-}
-
-html[data-theme='dark'] .sl-markdown blockquote {
-  border-left-color: #3c4b60;
-  background: rgba(60, 75, 96, 0.35);
-}
-
-html[data-theme='dark'] nav [aria-current="page"],
-html[data-theme='dark'] nav [data-active="true"] {
-  background: #213146 !important;
+  h1, .sl-markdown h1 { font-size: 2rem; }
+  h2, .sl-markdown h2 { font-size: 1.4rem; }
 }
