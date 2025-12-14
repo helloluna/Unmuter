@@ -1,251 +1,168 @@
 ---
-title: Home
-description: Overview of WA’s animal welfare FOI timeline, structural vacuums, and democratic illusion.
+title: Oversight Chain
+description: How responsibility for a long-term restrictive practice moved across institutions — and disappeared.
 ---
 
-# WA Animal Welfare Transparency Archive
+# Oversight Chain  
+## How responsibility moved — and disappeared
 
-> *A public memory — against forgetting.*  
-> *A witness to systems that perform oversight while practising erasure.*
+This page documents how responsibility for a long-term restrictive practice on a disabled child moved across institutions in Western Australia, without any authority ultimately accepting full accountability.
 
----
-
-## What This Is
-This site is a **public evidence archive**.  
-It records not only what government said — but what it refused to document.  
-
-Each FOI request produces one of four symbols:  
-`✓ Found` · `~ In process` · `∅ None` · `✖ Hidden`  
-Together they map **how oversight collapses in plain sight**.
+What failed here was not a single decision, but an **oversight chain**.
 
 ---
 
-## 🕊️ The Story of Citizen A
+## The Oversight Path
 
-> *What happens when an ordinary person tries to see?*
+**SBS → PTA → Ombudsman WA → EOC WA → AHRC**
 
-**Citizen A is an ordinary person.**  
-She has no title, no connections—only the memory of caring for a few animals and knowing they could feel pain.  
-So she asked a simple question: *How are farmed animals living now?*
-
-She searched through government websites and found only gentle sentences:
-
-> “We are deeply committed to animal welfare.”
-
-But every link opened onto emptiness—no inspection reports, no penalty records,  
-not even a document describing how inspections were done.
-
-So she lodged a Freedom of Information (FOI) request—  
-the law that promises citizens the “right to know.”
-
-The first reply came quickly:
-
-> “No such documents exist.”
-
-Citizen A was confused.  
-None at all?  
-Then how is the government supervising anything?
-
-She sent an internal review request. Weeks later, a new letter arrived:
-
-> “Some records exist, but they cannot be released.”
-
-So “nothing” became “something, but you can’t see it.”
-
-She asked again:  
-Are there rules for inspections?  
-A standard operating procedure?  
-Any internal risk assessments?
-
-The answer was always the same:
-
-> “No documents exist.”
-
-It turned out there were not only no results—there was no process.
-
-So she filed a third FOI.  
-If all this was missing, had the Agriculture Department reported the issue to the Minister?  
-To Parliament?
-
-Weeks later, the answer came:
-
-> “No documents exist.”
-
-Not a single risk assessment.  
-No briefing note.  
-No memo.  
-
-Even silence had no record.
-
-While sending that request, she also asked the Office of the Information Commissioner (OIC) to review the Department’s handling.  
-But OIC had troubles of its own:
-
-> “Our case backlog is significant. There is no estimated timeframe.”
-
-She then turned to the Ombudsman, asking them to examine the OIC.  
-A courteous letter came back:
-
-> “By law, we cannot investigate the OIC.”  
-> And because the OIC was still reviewing the Department, the Ombudsman could not investigate the Department either.
-
-It was like hearing a door quietly lock.
-
-So she looked deeper.  
-She found that the OIC, the Ombudsman, Parliament committees, and the Auditor General are all **exempt from the FOI Act**.
-
-The very bodies meant to oversee the system  
-are themselves outside public scrutiny.
-
-She tried one more thing:  
-Filed an FOI with the OIC itself, asking for internal policies—  
-How are cases assigned? What are their timelines? How many are delayed?
-
-Weeks passed.  
-Then a short letter arrived:
-
-> “This office is listed in Schedule 2 of the Freedom of Information Act.  
-> The Act does not apply to us.”
-
-Even her filing fee was returned.
-
-**Citizen A smiled.**  
-She had finally seen the full picture:
-- The Agriculture Department was waiting on the OIC.  
-- The OIC could not be supervised.  
-- The Ombudsman could not investigate the OIC.  
-- Parliament could only accept and archive complaints.
-
-All the doors were still there—  
-yet behind each one waited another that read, “Temporarily unavailable.”
-
-She began to understand:  
-inside this grand palace of procedure, everyone had a part to play—  
-one was in charge of saying *“nothing,”*  
-one of saying *“waiting,”*  
-one of saying *“no authority,”*  
-and one of filing everything away.
-
-**Together, they formed a perfect circle,  
-whose center was no one responsible.**
-
-Citizen A felt no anger, and she did not cry.  
-She simply arranged all the letters and refusals,  
-and placed them on a small website.  
-No accusations, no conspiracy theories—just documents and dates.
-
-She called it **Unseen Beings**.
-
-> *The site is a mirror,*  
-> *letting people see for themselves:*  
-> *when an ordinary citizen seeks the truth,*  
-> *the democratic system can, politely and procedurally,*  
-> *show her nothing at all.*
-
-“This isn’t the end of the story,” she says.  
-“It’s only the edge of the map.”
-
-Someday, perhaps, citizens B, C, and D will walk this same path,  
-see the map she left behind,  
-and understand how the illusion works.
+At each step, responsibility was narrowed, redirected, or deferred — until no body retained jurisdiction over the full conduct.
 
 ---
 
-## Findings So Far
-**FOI1 → Result Vacuum**  
-Inspection and enforcement outcomes could not be produced; the internal review later contradicted the original denial.
+## 1. PTA / SBS — Primary Failure
 
-**FOI2 → Process Vacuum**  
-No oversight records, no risk assessments, no compliance frameworks.  
-IR2 upheld the emptiness; ER2 filed.
+**Role:**  
+Public Transport Authority (PTA) oversees School Bus Services (SBS) and is responsible for student transport policy and compliance.
 
-**FOI3 → Accountability Vacuum**  
-No ministerial briefings, no escalation to OAG/Ombudsman, no internal risk memos since 2022.  
-IR3 confirmed total silence; ER3 filed.
+**What should have happened:**  
+- Review of control devices at least every 3 months (STAP 2020 §6.5)  
+- Professional assessment and review by a qualified prescriber  
+- Ongoing reduction and fade-out planning for restrictive practices  
 
-**FOI4 → System Structure Vacuum**  
-No legal-authority logs, no record‑keeping frameworks, no financial delegations for inspectorate functions.
+**What actually happened:**  
+- A mechanical restraint (harness) was authorised internally in 2022  
+- No clinical assessment by a qualified prescriber  
+- No reviews for over three years  
+- No therapist-designed fade-out plan  
+- No behaviour support or oversight  
 
-**FOI5 → Ministerial Oversight Vacuum**  
-Testing whether the Minister holds AWAC reports, DI governance briefings, or any statutory oversight records.
+In October 2025, PTA formally admitted that SBS **“did not follow up”** the harness approval as required.
 
-**Ombudsman (Sept 2025)**  
-Formally refused jurisdiction over OIC delays, completing the oversight deadlock.
+At the same time, PTA asserted that:
+> “Families are responsible for initiating therapist assessments.”
 
-**Outcome:**  
-Oversight bodies now verify their own inertia:  
-OIC = time black hole → Ombudsman = “no jurisdiction” → Parliament = symbolic theatre.  
-**The oversight chain has collapsed by design.**
+**Structural outcome:**  
+PTA acknowledged non-compliance but **shifted responsibility for correction and safety oversight onto the family**.
 
-→ See full chronology in the [Action Log](/action-log).
-
----
-
-## 🧩 Analyses & Evidence
-
-These pages place the FOI evidence within its structural context —  
-how transparency became its own disguise,  
-and how the OIC was *starved into dysfunction.*
-
-- 🪞 [The Illusion of Democratic Oversight](/democratic-illusion)  
-  *How a transparent system becomes its own mask.*
-
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation)  
-  *23 years of deliberate underfunding and predictable collapse.*
+This constitutes administrative maladministration combined with duty-shifting.
 
 ---
 
-## 📚 Context & History
+## 2. Ombudsman WA — Oversight Collapse
 
-To understand how this system evolved —  
-how promises repeated, language recycled, and accountability dissolved —  
-read these two historical mirrors:
+**Role:**  
+Investigate maladministration in public authorities under the Parliamentary Commissioner Act 1971 (WA).
 
-- ⚖️ [Official Claims vs. Reality](/contradictions)  
-  *What governments said about animal welfare — and what FOI records reveal.*
+**What should have happened:**  
+- Independent investigation into systemic non-compliance by PTA  
+- Use of s17 powers to examine maladministration  
 
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline)  
-  *A quarter century of debates that promised transparency, delivered silence.*
+**What actually happened:**  
+- Complaint C/53598 was received in August 2025  
+- Ombudsman declined investigation and instead forwarded the complaint back to PTA  
+- No systemic review, no findings, no corrective action  
 
----
+When the complainant later requested a formal s17 investigation, the Ombudsman did not initiate one.
 
-## Why It Matters
+Instead, in October 2025, the matter was reopened under a new file number (C/54176), effectively resetting the timeline without investigation.
 
-Since 2023, unauthorised filming or entry into animal farming facilities has been criminalised in WA.  
-This leaves **Designated Inspectors (DIs)** as the **sole legal witnesses** inside spaces where animals often endure **extreme confinement, mutilation, and psychological trauma**.
+**Structural outcome:**  
+The state’s highest administrative watchdog functioned as a **deflection mechanism**, not an investigative authority.
 
-What vanishes in this silence is not just institutional data, but the **reality of lives endured in cages, crates, and industrial sheds**.  
-**Animals live, suffer, and die in silence. This site ensures that silence is not total.**
-
----
-
-## Transparency Timeline (Key Points)
-
-| Year | Event | Reality |
-|------|-------|----------|
-| 2002 | Animal Welfare Act | “Modern law” with no enforcement framework |
-| 2020 | Independent Review | 52 recommendations supported, none enacted |
-| 2023 | Trespass & DI Act | DIs created, transparency used to justify repression |
-| 2025 | FOI Cycles | Void proven across law, policy, and oversight |
+Oversight was procedural rather than substantive.
 
 ---
 
-## Structural Meaning
-What began as bureaucracy has revealed itself as **architecture** —  
-a deliberately hollow system built to display responsibility while erasing evidence.  
-This archive exists to preserve that design in public record.
+## 3. Equal Opportunity Commission WA (EOC) — Partial Jurisdiction
+
+**Role:**  
+Investigate discrimination complaints under the Equal Opportunity Act 1984 (WA).
+
+**What should have happened:**  
+- Examination of impairment discrimination in access to transport services  
+- Consideration of the full period of the alleged conduct  
+
+**What actually happened:**  
+- Complaint accepted as EOC/1317/2025  
+- EOC confirmed it can only investigate alleged breaches of **state law**  
+- EOC explicitly confirmed it **cannot investigate breaches of federal legislation**, including:
+  - Disability Discrimination Act 1992 (Cth)  
+  - Disability Standards for Education 2005 (Cth)  
+  - National Restrictive Practices Framework  
+  - NDIS Act 2013  
+
+EOC also refused to accept incidents older than 12 months as “out of time”, excluding approximately **2.5 years** of the restraint from the formal record.
+
+**Structural outcome:**  
+EOC’s jurisdictional and temporal limits rendered most of the lived chronology **legally invisible**, even though the conduct was continuous.
 
 ---
 
-## Navigate
+## 4. Australian Human Rights Commission (AHRC) — Procedural Barrier
 
-- 📜 [Action Log](/action-log) – FOI cycles and institutional responses  
-- ⚖️ [Official Claims vs. Reality](/contradictions) – government statements vs. FOI findings  
-- 🏛️ [25 Years of Legislative Theatre](/legislative-timeline) – long-view pattern of promises and voids  
-- 🧩 [The Illusion of Democratic Oversight](/democratic-illusion) – how transparency becomes its own disguise  
-- 📉 [WA OIC: Systemic Resource Starvation (2002–2025)](/oic-starvation) – 23 years of deliberate underfunding and collapse  
-- 📂 [Resources](/resources) – all source documents  
-- 🧭 [About](/about) – method & philosophy
+**Role:**  
+Investigate federal discrimination complaints under the Disability Discrimination Act 1992 (Cth).
+
+**What should have happened:**  
+- Assessment of breaches of federal disability law and national frameworks  
+
+**What actually happened:**  
+- AHRC declined the complaint under s13(4) DDA because a state complaint was “on foot”  
+- AHRC advised that reassessment could occur if EOC confirmed it lacked jurisdiction over federal aspects  
+
+When EOC formally confirmed it could not investigate federal legislation, the complainant requested reassessment.
+
+As of December 2025, AHRC has provided **no substantive response**.
+
+**Structural outcome:**  
+Federal oversight became **practically unavailable**, despite being the only forum capable of addressing federal law breaches.
 
 ---
 
-_Last updated: November 2025_
+## Boundary Failure — Falling Through the Gaps
+
+This case did not fail within a single institution.  
+It failed **at the boundaries between systems**:
+
+- Education services vs public transport  
+- State oversight vs federal oversight  
+- State discrimination law vs federal disability standards  
+- Public service obligations vs NDIS-funded individual supports  
+
+Each body could plausibly claim:
+> “This is not fully within our remit.”
+
+No body retained responsibility for the **whole harm**.
+
+---
+
+## The Jurisdictional Dead Loop
+
+A closed procedural loop emerged:
+
+- **PTA:** Families are responsible  
+- **Ombudsman:** Agency will deal with it  
+- **EOC:** We can’t investigate federal law  
+- **AHRC:** We can’t act while a state complaint exists  
+
+The result is not delay, but **structural non-reviewability**.
+
+---
+
+## Why This Is Not a One-Off
+
+This oversight chain reflects a broader pattern:
+
+- Restrictive practices authorised administratively  
+- Oversight fragmented across agencies  
+- Jurisdictional limits used as exit points  
+- Families required to absorb responsibility and risk  
+
+When responsibility is fragmented, accountability disappears.
+
+---
+
+## One-Line Finding
+
+> The system did not deny the family; it outsourced the state’s obligations to them, then used jurisdiction and time limits to make the harm unreviewable.
